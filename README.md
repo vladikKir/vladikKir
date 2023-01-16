@@ -16,6 +16,7 @@
 ## Contact me
 
 <a href="https://t.me/vladikKir"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></img></a>
+<a href="https://vladik15041999@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></img></a>
 
 ## Stats
 
