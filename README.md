@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="24px" height="24px" alt="hi"> My name is Vlad, I`m a Frontend developer
+
+- 🔭 I`m looking for a job, remote or Moscow/Saint-Petersburg
+- 🤔 I’m currently working on [Chat](https://github.com/vladikKir/frontend-project-12)
+- 🌱 I’m currently learning php
+
+## My stack
 
 <!--
 **vladikKir/vladikKir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
