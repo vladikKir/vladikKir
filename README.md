@@ -13,6 +13,11 @@
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
 
+## Contact me
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vladikKir)](https://github.com/vladikKir/github-readme-stats)
+
 <!--
 **vladikKir/vladikKir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
