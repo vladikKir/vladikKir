@@ -1,6 +1,6 @@
 ### Hi there <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="24px" height="24px" alt="hi"> My name is Vlad, I`m a Frontend developer
 
-- 🔭 I`m looking for a job, remote or Moscow/Saint-Petersburg
+- 🔭 I`m open to job offers, remote or Moscow/Saint-Petersburg
 - 🤔 I’m currently working on [Duckfund](https://duckfund.com)
 
 ## My stack
