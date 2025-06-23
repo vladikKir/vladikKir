@@ -1,8 +1,5 @@
 ### Hi there <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="24px" height="24px" alt="hi"> My name is Vlad, I`m a Frontend developer
 
-- 🔭 I`m open to job offers, remote or Moscow/Saint-Petersburg
-- 🤔 I’m currently working on [Duckfund](https://duckfund.com)
-
 ## My stack
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
